@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with programming :3
+- 😄 Pronouns: He/Him
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=OfficialMuffin&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialMuffin&layout=compact&theme=radical" width="400" />
+</p>
