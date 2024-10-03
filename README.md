@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with programming :3
+- 🌱 I’m currently learning Cyber Security
+- 👯 I’m looking to collaborate / contribute on anything
 - 💬 I'm passionate about computer and network security
-- ⚡ I'm currently looking for work as a computer technician
-
+- ⚡ I'm currently looking for work in the IT Industry
+  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=OfficialMuffin&theme=radical&show_icons=true" width="400"/>
   
