@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Cyber Security
-- 👯 I’m looking to collaborate / contribute on anything
+- 🌱 I’m currently learning Cyber Security with TryHackMe
+- 👯 I’m looking to collaborate / contribute on GitHub
 - 💬 I'm passionate about computer and network security
-- ⚡ I'm currently looking for work in the IT Industry
+- ⚡ I'm currently looking for work as a L1 SOC Analyst
 
+### TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/m4st3rd0g3.png" alt="Your Image Badge" />
+
+### GitHub Stats
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=OfficialMuffin&theme=radical&show_icons=true" width="400"/>
