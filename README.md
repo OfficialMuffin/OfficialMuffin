@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate / contribute on anything
 - 💬 I'm passionate about computer and network security
 - ⚡ I'm currently looking for work in the IT Industry
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1255171" style='border:none;'></iframe>
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=OfficialMuffin&theme=radical&show_icons=true" width="400"/>
