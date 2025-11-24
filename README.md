@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/m4st3rd0g3.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1255171" style='border:none;'></iframe>
 
 ### GitHub Stats
   
